@@ -306,7 +306,7 @@ The project follows modern software engineering practices:
 Your Name
 
 GitHub:
-https://github.com/your_username
+https://github.com/AmirMohammadHeydari
 
 LinkedIn:
-https://linkedin.com/in/your_username
+www.linkedin.com/in/heidary-amirmohammad-955942418
